@@ -1,4 +1,5 @@
 Relógio Digital 2
+
 Este projeto é um relógio digital simples criado utilizando HTML, CSS e JavaScript. Ele exibe a hora atual em horas, minutos e segundos, atualizando a cada segundo.
 
 Recursos
